@@ -100,8 +100,14 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 ![image](https://github.com/anishkumar-Embedded/Converter-design-and-simulation/assets/71547910/0cfd4fc7-1eff-42e3-9806-319bfe174926)
 
 # Output
+## AC to DC Converter
+
+![Screenshot 2024-03-14 085853](https://github.com/charumathiramesh/Converter-design-and-simulation/assets/120204455/ea252976-78a3-4273-a3a8-6cb6df3dab46)
 
 
+## DC to DC voltage regulator
+
+![Screenshot 2024-03-14 085944](https://github.com/charumathiramesh/Converter-design-and-simulation/assets/120204455/06bd827d-60e4-498d-9431-42224396e182)
 
 
 
